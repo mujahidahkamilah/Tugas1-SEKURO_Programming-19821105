@@ -1,13 +1,13 @@
-Version Control System (VCS):
+## Version Control System (VCS):
 Sistem yang menyimpan dan mengelola rekaman perubahan dari source code
 
-Git:
+## Git:
 Salah satu software yang bisa melakukan VCS
 
-GitHub:
+## GitHub:
 Website/layanan untuk mengelola project Git
 
-Istilah Git
+## Istilah Git
 repo: folder project kita
 commit: rekaman/snapshot dari repo kita
 hash: penanda unik pada sebuah commit
